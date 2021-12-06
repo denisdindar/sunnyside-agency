@@ -1,6 +1,6 @@
 # Sunnyside Agency Landing Page
 
-![Screen](/images/desktop-preview.jpg "Desktop Preview")
+![Screen](/design/desktop-preview.jpg "Desktop Preview")
 
 - Live Page: [Sunnyside Agency](https://denisdindar.github.io/sunnyside-agency/)
 
